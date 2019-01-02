@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/GameOver.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Passage2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/SuccessScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Lv1.unity
+  isLoaded: 1
+  isActive: 1

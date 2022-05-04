@@ -2,6 +2,9 @@
 This is Fire education project with using VR.  
 We use Samsung odyssey VR.  
 
+### 데모 영상
+https://youtu.be/qVDqdi-FteQ
+
 #### 시작화면
 ![시작화면](./img/시작화면.jpg)
 
